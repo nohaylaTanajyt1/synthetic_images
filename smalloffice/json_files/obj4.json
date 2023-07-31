@@ -1,0 +1,349 @@
+{
+    "objects": [
+        {
+            "name": "antique_ceramic_vase_01",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/antique_ceramic_vase_01.blend",
+            "location": [
+                1.1155794858932495,
+                0.226168 ,
+                -0.398615 
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.729933500289917,
+                0.729933500289917,
+                0.729933500289917
+            ],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/antique_ceramic_vase_01_diff_1k.jpg"]
+        },
+        {
+            "name": "potted_plant_04.001",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/potted_plant_04.blend",
+            "location": [
+                1.108 ,
+                -1.71024 ,
+                -0.504868 
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/potted_plant_04_diff_1k.jpg"]
+        },
+
+        {
+            "name": "Office_WindowFrame_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_WindowFrame_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": []
+        },
+        {
+            "name": "Office_Window_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Window_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Window_baseColor.png"]
+        },
+        {
+            "name": "Office_WallPictureFrames_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_WallPictureFrames_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/WallPictureFrames_baseColor.png"]
+        },
+        {
+            "name": "Office_WindowFrame_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_WindowFrame_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": []
+        },
+        {
+            "name": "Office_Window_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Window_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Window_baseColor.png"]
+        },
+        {
+            "name": "Office_WallPictureFrames_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_WallPictureFrames_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/WallPictureFrames_baseColor.png"]
+        },
+        {
+            "name": "Office_Wall_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Wall_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/scuffed_cement_disp.png"]
+        },
+        {
+            "name": "Office_Towel_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Towel_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Towel_baseColor.png"]
+        },
+        {
+            "name": "Office_Table_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Table_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": []
+        },
+        {
+            "name": "Office_SkirtingBoard_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_SkirtingBoard_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/SkirtingBoard_baseColor.png"]
+        },
+        {
+            "name": "Office_Screen_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Screen_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": []
+        },
+        {
+            "name": "Office_Roof_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Roof_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Roof_baseColor.png"]
+        },
+        {
+            "name": "Office_Pot_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Pot_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": []
+        },
+        {
+            "name": "Office_Plug_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Plug_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Plug_baseColor.png"]
+        },
+        {
+            "name": "Office_Painting_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Painting_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Painting_baseColor.jpeg"]
+        },
+        {
+            "name": "Office_Painting3_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Painting3_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Painting3_baseColor.jpeg"]
+        },
+        {
+            "name": "Office_Painting2_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Painting2_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Painting2_baseColor.jpeg"]
+        },
+        {
+            "name": "Office_NotepadBook_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_NotepadBook_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": []
+        },
+        {
+            "name": "Office_Notepad_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Notepad_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Notepad_baseColor.png"]
+        },
+        {
+            "name": "Office_LightSurround_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_LightSurround_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": []
+        },
+        {
+            "name": "Office_LightEmissive_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_LightEmissive_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": []
+        },
+        {
+            "name": "Office_Leaves_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Leaves_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": []
+        },
+        {
+            "name": "Office_Keyboard_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Keyboard_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Keyboard_baseColor.png"]
+        },
+        {
+            "name": "Office_Floor_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Floor_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Floor_baseColor.png"]
+        },
+        {
+            "name": "Office_Dirt_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Dirt_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Dirt_baseColor.jpeg"]
+        },
+        {
+            "name": "Office_DeskPaintingFrame_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_DeskPaintingFrame_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": []
+        },
+        {
+            "name": "Office_DeskPainting_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_DeskPainting_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/DeskPainting_baseColor.jpeg"]
+        },
+        {
+            "name": "Office_Curtain_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Curtain_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Curtain_baseColor.png"]
+        },
+        {
+            "name": "Office_Cupboard_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Cupboard_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Cupboard_baseColor.png"]
+        },
+        {
+            "name": "Office_ClockWindow_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_ClockWindow_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Window_baseColor.png"]
+        },
+        {
+            "name": "Office_ClockOutside_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_ClockOutside_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": []
+        },
+        {
+            "name": "Office_Clockface_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Clockface_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Clockface_baseColor.png"]
+        },
+        {
+            "name": "Office_Chrome_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Chrome_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": []
+        },
+        {
+            "name": "Office_Chair_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Chair_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Chair_baseColor.png"]
+        },
+        {
+            "name": "Office_BlackTrim_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_BlackTrim_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": []
+        },
+        {
+            "name": "Office_Bin_0",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Office_Bin_0.blend",
+            "location": [0.0, 0.0, 0.0],
+            "rotation": [0.0, 0.0, 0.0],
+            "scale": [1.250643014907837, 1.2506431341171265, 1.2506431341171265],
+            "texture": ["/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/textures/Bin_baseColor.png"]
+        },
+        {
+            "name": "Light",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Light.blend",
+            "location": [4.076245307922363, 1.0054539442062378, 5.903861999511719],
+            "rotation": [0.6503281593322754, 0.05521712824702263, 1.8663908243179321],
+            "scale": [1.0, 0.9999999403953552, 1.0],
+            "texture": []
+        },
+        {
+            "name": "Camera",
+            "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/smalloffice/assets/Camera.blend",
+            "location": [0.07216814905405045, -6.393365383148193, -0.40333080291748047],
+            "rotation": [1.5707963705062866, 1.67099833969786e-10, 0.011660095304250717],
+            "scale": [1.0, 1.0, 1.0],
+            "texture": []
+        }
+    ]
+}

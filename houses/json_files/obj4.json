@@ -1,0 +1,784 @@
+{
+  "objects": [
+    {
+      "name": "Light",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Light.blend",
+      "location": [
+        32.13307189941406,
+        103.16817474365234,
+        48.67783737182617
+      ],
+      "rotation": [
+        0.6503280401229858,
+        0.05521714314818382,
+        1.8663908243179321
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "houses.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/houses_001.blend",
+      "location": [
+        28.05682373046875,
+        102.16271209716797,
+        42.77397155761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_9",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_9.blend",
+      "location": [
+        28.05682373046875,
+        102.16271209716797,
+        42.77397155761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert11SG_baseColor.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert11SG_metallicRoughness.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert11SG_normal.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert11SG_metallicRoughness.png"
+      ]
+    },
+    {
+      "name": "Object_8",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_8.blend",
+      "location": [
+        28.05682373046875,
+        102.16271209716797,
+        42.77397155761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert12SG_baseColor.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert12SG_metallicRoughness.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert12SG_normal.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert12SG_metallicRoughness.png"
+      ]
+    },
+    {
+      "name": "Object_7",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_7.blend",
+      "location": [
+        28.05682373046875,
+        102.16271209716797,
+        42.77397155761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert10SG_baseColor.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert10SG_metallicRoughness.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert10SG_normal.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert10SG_metallicRoughness.png"
+      ]
+    },
+    {
+      "name": "Object_6",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_6.blend",
+      "location": [
+        -35.29039764404297,
+        95.7009506225586,
+        42.150184631347656
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        2.5858147144317627,
+        2.585814952850342,
+        2.585814952850342
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/rocky_trail_02_disp.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/rocky_trail_02_diff.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/rocky_trail_02_rough.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/rocky_trail_02_nor_gl.png"
+      ]
+    },
+    {
+      "name": "Object_5",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_5.blend",
+      "location": [
+        28.05682373046875,
+        102.16271209716797,
+        42.77397155761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert9SG_baseColor.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert9SG_metallicRoughness.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert9SG_normal.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert9SG_metallicRoughness.png"
+      ]
+    },
+    {
+      "name": "Object_4",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_4.blend",
+      "location": [
+        28.05682373046875,
+        102.16271209716797,
+        42.77397155761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert16SG_baseColor.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert16SG_metallicRoughness.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert16SG_normal.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert16SG_metallicRoughness.png"
+      ]
+    },
+    {
+      "name": "Object_3",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_3.blend",
+      "location": [
+        28.05682373046875,
+        102.16271209716797,
+        42.77397155761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+       15,
+       33,
+       7
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert15SG_baseColor.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert15SG_metallicRoughness.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert15SG_normal.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert15SG_metallicRoughness.png"
+      ]
+    },
+    {
+      "name": "Object_2",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_2.blend",
+      "location": [
+        28.05682373046875,
+        102.16271209716797,
+        42.77397155761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        40,
+        40,
+        40
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert14SG_baseColor.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert14SG_metallicRoughness.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert14SG_normal.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert14SG_metallicRoughness.png"
+      ]
+    },
+    {
+      "name": "Object_10",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_10.blend",
+      "location": [
+        28.05682373046875,
+        102.16271209716797,
+        42.77397155761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert13SG_baseColor.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert13SG_metallicRoughness.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert13SG_normal.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/lambert13SG_metallicRoughness.png"
+      ]
+    },
+    {
+      "name": "Light.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Light_001.blend",
+      "location": [
+        32.13307189941406,
+        103.16817474365234,
+        48.67783737182617
+      ],
+      "rotation": [
+        0.6503280401229858,
+        0.05521714314818382,
+        1.8663908243179321
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "house_s+carriage_s.obj.cleaner.materialmerger.gles",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/house_s_carriage_s_obj_cleaner_materialmerger_gles.blend",
+      "location": [
+        28.05682373046875,
+        102.16271209716797,
+        42.77397155761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "textures": []
+    },
+    {
+      "name": "Camera.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Camera_001.blend",
+      "location": [
+        -4.145823955535889,
+        194.27841186523438,
+        58.116615295410156
+      ],
+      "rotation": [
+        1.5707963705062866,
+        -0.015811637043952942,
+        -3.063582181930542
+      ],
+      "scale": [
+        7.259841442108154,
+        7.259841442108154,
+        7.259841442108154
+      ],
+      "textures": []
+    },
+    {
+      "name": "Plane001.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Plane001_001.blend",
+      "location": [
+        121.23169708251953,
+        97.13582611083984,
+        269.3486328125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        2.719691038131714,
+        2.5400002002716064,
+        2.6765828132629395
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_8.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_8_001.blend",
+      "location": [
+        -22.071086883544922,
+        96.61343383789062,
+        14.13249683380127
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object001.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object001_001.blend",
+      "location": [
+        141.23170471191406,
+        97.13581848144531,
+        7.888609052210118e-31
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        2.5399999618530273,
+        2.5399999618530273,
+        2.5399999618530273
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_001.blend",
+      "location": [
+        141.23170471191406,
+        97.13581848144531,
+        7.888609052210118e-31
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        2.5399999618530273,
+        2.5399999618530273,
+        2.5399999618530273
+      ],
+      "textures": []
+    },
+    {
+      "name": "Box001.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Box001_001.blend",
+      "location": [
+        141.23170471191406,
+        97.13581848144531,
+        7.888609052210118e-31
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        2.5399999618530273,
+        2.5399999618530273,
+        2.5399999618530273
+      ],
+      "textures": []
+    },
+    {
+      "name": "Sketchfab_model",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Sketchfab_model.blend",
+      "location": [
+        -26.745800018310547,
+        96.28246307373047,
+        63.54453659057617
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.05402032658457756,
+        0.05402032285928726
+      ],
+      "textures": []
+    },
+    {
+      "name": "RootNode",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/RootNode.blend",
+      "location": [
+        -26.745800018310547,
+        96.28246307373047,
+        63.54453659057617
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.05402033030986786,
+        0.05402033403515816
+      ],
+      "textures": []
+    },
+    {
+      "name": "pietro_PVC FoamBoard Green_0",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/pietro_PVC_FoamBoard_Green_0.blend",
+      "location": [
+        -26.97937774658203,
+        89.9677734375,
+        64.13772583007812
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.054020341485738754,
+        0.054020337760448456
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_1_baseColor.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_1_metallicRoughness.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_1_normal.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_1_metallicRoughness.png"
+      ]
+    },
+    {
+      "name": "pietro",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/pietro.blend",
+      "location": [
+        -26.745800018310547,
+        96.28246307373047,
+        63.54453659057617
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.054020341485738754,
+        0.054020337760448456
+      ],
+      "textures": []
+    },
+    {
+      "name": "OKNO_PVC FoamBoard Red_0",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/OKNO_PVC_FoamBoard_Red_0.blend",
+      "location": [
+        -26.97937774658203,
+        89.9677734375,
+        64.13772583007812
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.054020341485738754,
+        0.054020337760448456
+      ],
+      "textures": []
+    },
+    {
+      "name": "OKNO",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/OKNO.blend",
+      "location": [
+        -26.745800018310547,
+        96.28246307373047,
+        63.54453659057617
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.054020341485738754,
+        0.054020337760448456
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_7.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_7_001.blend",
+      "location": [
+        -26.97937774658203,
+        89.9677734375,
+        64.13772583007812
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.054020341485738754,
+        0.054020337760448456
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_4.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_4_001.blend",
+      "location": [
+        -26.97937774658203,
+        89.9677734375,
+        64.13772583007812
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.054020341485738754,
+        0.054020337760448456
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_13",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_13.blend",
+      "location": [
+        -26.97937774658203,
+        89.9677734375,
+        64.13772583007812
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.054020341485738754,
+        0.054020337760448456
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_10.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Object_10_001.blend",
+      "location": [
+        -26.97937774658203,
+        89.9677734375,
+        64.13772583007812
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.054020341485738754,
+        0.054020337760448456
+      ],
+      "textures": []
+    },
+    {
+      "name": "Light.002",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Light_002.blend",
+      "location": [
+        -25.920982360839844,
+        93.13910675048828,
+        68.11439514160156
+      ],
+      "rotation": [
+        0.6503280401229858,
+        0.05521709844470024,
+        0.3103720247745514
+      ],
+      "scale": [
+        0.774045467376709,
+        0.7740457057952881,
+        0.7740453481674194
+      ],
+      "textures": []
+    },
+    {
+      "name": "DOL_PVC FoamBoard Green_0",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/DOL_PVC_FoamBoard_Green_0.blend",
+      "location": [
+        -26.97937774658203,
+        89.9677734375,
+        64.13772583007812
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.054020341485738754,
+        0.054020337760448456
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_0_baseColor.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_0_metallicRoughness.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_0_normal.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_0_metallicRoughness.png"
+      ]
+    },
+    {
+      "name": "DOL",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/DOL.blend",
+      "location": [
+        -26.745800018310547,
+        96.28246307373047,
+        63.54453659057617
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.054020341485738754,
+        0.054020337760448456
+      ],
+      "textures": []
+    },
+    {
+      "name": "dach_PVC FoamBoard Green_0",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/dach_PVC_FoamBoard_Green_0.blend",
+      "location": [
+        -26.97937774658203,
+        89.9677734375,
+        64.13772583007812
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.054020341485738754,
+        0.054020337760448456
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_baseColor.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_metallicRoughness.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_normal.png",
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_metallicRoughness.png"
+      ]
+    },
+    {
+      "name": "dach",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/dach.blend",
+      "location": [
+        -26.745800018310547,
+        96.28246307373047,
+        63.54453659057617
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.054020341485738754,
+        0.054020337760448456
+      ],
+      "textures": []
+    },
+    {
+      "name": "Cube",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/Cube.blend",
+      "location": [
+        -26.745800018310547,
+        96.28246307373047,
+        63.54453659057617
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -1.556018590927124
+      ],
+      "scale": [
+        0.7740454077720642,
+        0.7740454077720642,
+        0.774045467376709
+      ],
+      "textures": []
+    },
+    {
+      "name": "9ad13e0d344f4658afd04034477e6dd6.fbx",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/houses/assets/9ad13e0d344f4658afd04034477e6dd6_fbx.blend",
+      "location": [
+        -26.745800018310547,
+        96.28246307373047,
+        63.54453659057617
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.05402032285928726,
+        0.05402033030986786,
+        0.05402033403515816
+      ],
+      "textures": []
+    }
+  ]
+}

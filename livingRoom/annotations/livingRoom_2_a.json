@@ -1,0 +1,84 @@
+{
+    "livingRoom_2_b": {
+        "objects": [
+            {
+                "name": "sofa",
+                "location": "on the right",
+                "texture": "grey fabric"
+            },
+            {
+                "name": "wooden table",
+                "location": "on the right",
+                "texture": "wood"
+            },
+            {
+                "name": "lamp",
+                "location": "on the right",
+                "texture": "metal"
+            },
+            {
+                "name": "books",
+                "location": "on the wooden table",
+                "texture": "paper"
+            },
+            {
+                "name": "pouf",
+                "location": "on the right",
+                "texture": "gray"
+            },
+            {
+                "name": "carpet",
+                "location": "on the left",
+                "texture": "gray"
+            },
+            {
+                "name": "wooden table",
+                "location": "on the left",
+                "texture": "metal legs"
+            },
+            {
+                "name": "ceramic cup",
+                "location": "on the left",
+                "texture": "ceramic"
+            },
+            {
+                "name": "books",
+                "location": "on the left",
+                "texture": "paper"
+            },
+            {
+                "name": "plant",
+                "location": "on the left ",
+                "texture": "leaves"
+            },
+            {
+                "name": "painting",
+                "location": "on the right",
+                "texture": "black and white "
+            },
+            {
+                "name": "wall",
+                "location": "on the right",
+                "texture": "beige plaster "
+            },
+            {
+                "name": "curtains",
+                "location": "on the left",
+                "texture": "grey fabric "
+            }
+        ],
+        "relations": [
+            "The sofa is placed next to the wall",
+            "A wooden table is positioned beside the sofa.",
+            "A lamp is located on the wooden table.",
+            "Books are on the wooden table.",
+            "The pouf is in the middle left.",
+            "The gray carpet is in the middle right.",
+            "A wooden table with metal legs is on the top of the carpet.",
+            "A ceramic cup is on the top of the wooden table.",
+            "Books are on the top of the wooden table.",
+            "A plant is on the left between the curtains and the sofa.",
+            "A painting is on the right of the wall."
+        ]
+    }
+}

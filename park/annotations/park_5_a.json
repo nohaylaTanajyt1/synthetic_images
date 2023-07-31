@@ -1,0 +1,49 @@
+{
+    "park_5_a": {
+        "objects": [
+            {
+                "name": "benches",
+                "location": "on the right",
+                "texture": "light wood"
+            },
+            {
+                "name": "trees",
+                "location": "on the right and on the left",
+                "texture": "green leaves"
+            },
+            {
+                "name": "bins",
+                "location": "on the right",
+                "texture": "metal, green color"
+            },
+            {
+                "name": "walking path",
+                "location": "in the middle",
+                "texture": "blue concrete"
+            },
+            {
+                "name": "herbs",
+                "location": "on the right and on the left",
+                "texture": "green"
+            },
+            {
+                "name": "lamps",
+                "location": "on the right and on the left",
+                "texture": "black metal,blue glass"
+            },
+            {
+                "name": "outdoor table",
+                "location":"on the right ",
+                "texture":"brown wood"
+            }
+        ],
+        "relations": [
+            "the walking path is in the middle with benches on the right,trees and lamps on the sides",
+            "trees are positioned beside the benches and the bins",
+            "herbs are on the sides of the scene",
+            "outdoor table with chairs are next to the trees,behid the benches",
+            "chairs are next to the outdoor table"
+            
+        ]
+    }
+}

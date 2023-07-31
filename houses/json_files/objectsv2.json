@@ -1,0 +1,304 @@
+{
+    "objects": [
+        {
+            "name": "Object_2",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/assets/Object_2.blend",
+            "location": [
+                -36.29231643676758,
+                107.8498306274414,
+                42.54499816894531
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0000001192092896,
+                1.0000001192092896
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/lambert14SG_baseColor.png",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/lambert14SG_metallicRoughness.png",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/lambert14SG_normal.png",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/lambert14SG_metallicRoughness.png"
+            ]
+        },
+        {
+            "name": "Sketchfab_model",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/assets/Sketchfab_model.blend",
+            "location": [
+                7.2731475830078125,
+                98.94141387939453,
+                64.15149688720703
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.05402032285928726,
+                0.05402032658457756,
+                0.05402032285928726
+            ],
+            "textures": []
+        },
+        {
+            "name": "RootNode",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/assets/RootNode.blend",
+            "location": [
+                7.2731475830078125,
+                98.94141387939453,
+                64.15149688720703
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.05402032285928726,
+                0.05402033030986786,
+                0.05402033403515816
+            ],
+            "textures": []
+        },
+        {
+            "name": "pietro_PVC FoamBoard Green_0",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/assets/pietro_PVC_FoamBoard_Green_0.blend",
+            "location": [
+                7.039569854736328,
+                92.62672424316406,
+                64.74468994140625
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.05402032285928726,
+                0.054020341485738754,
+                0.054020337760448456
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_1_baseColor.png",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_1_metallicRoughness.png",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_1_normal.png",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_1_metallicRoughness.png"
+            ]
+        },
+        {
+            "name": "pietro",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/assets/pietro.blend",
+            "location": [
+                7.2731475830078125,
+                98.94141387939453,
+                64.15149688720703
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.05402032285928726,
+                0.054020341485738754,
+                0.054020337760448456
+            ],
+            "textures": []
+        },
+        {
+            "name": "OKNO_PVC FoamBoard Red_0",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/assets/OKNO_PVC_FoamBoard_Red_0.blend",
+            "location": [
+                7.039569854736328,
+                92.62672424316406,
+                64.74468994140625
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.05402032285928726,
+                0.054020341485738754,
+                0.054020337760448456
+            ],
+            "textures": []
+        },
+        {
+            "name": "OKNO",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/assets/OKNO.blend",
+            "location": [
+                7.2731475830078125,
+                98.94141387939453,
+                64.15149688720703
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.05402032285928726,
+                0.054020341485738754,
+                0.054020337760448456
+            ],
+            "textures": []
+        },
+        {
+            "name": "Light.002",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/assets/Light_002.blend",
+            "location": [
+                8.097965240478516,
+                95.79805755615234,
+                68.72135925292969
+            ],
+            "rotation": [
+                0.6503280401229858,
+                0.05521709844470024,
+                0.3103720247745514
+            ],
+            "scale": [
+                0.774045467376709,
+                0.7740457057952881,
+                0.7740453481674194
+            ],
+            "textures": []
+        },
+        {
+            "name": "DOL_PVC FoamBoard Green_0",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/assets/DOL_PVC_FoamBoard_Green_0.blend",
+            "location": [
+                7.039569854736328,
+                92.62672424316406,
+                64.74468994140625
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.05402032285928726,
+                0.054020341485738754,
+                0.054020337760448456
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_0_baseColor.png",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_0_metallicRoughness.png",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_0_normal.png",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_0_metallicRoughness.png"
+            ]
+        },
+        {
+            "name": "DOL",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/assets/DOL.blend",
+            "location": [
+                7.2731475830078125,
+                98.94141387939453,
+                64.15149688720703
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.05402032285928726,
+                0.054020341485738754,
+                0.054020337760448456
+            ],
+            "textures": []
+        },
+        {
+            "name": "dach_PVC FoamBoard Green_0",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/assets/dach_PVC_FoamBoard_Green_0.blend",
+            "location": [
+                7.039569854736328,
+                92.62672424316406,
+                64.74468994140625
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.05402032285928726,
+                0.054020341485738754,
+                0.054020337760448456
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_baseColor.png",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_metallicRoughness.png",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_normal.png",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/textures/PVC_FoamBoard_Green_metallicRoughness.png"
+            ]
+        },
+        {
+            "name": "dach",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/assets/dach.blend",
+            "location": [
+                7.2731475830078125,
+                98.94141387939453,
+                64.15149688720703
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.05402032285928726,
+                0.054020341485738754,
+                0.054020337760448456
+            ],
+            "textures": []
+        },
+        {
+            "name": "Cube",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/assets/Cube.blend",
+            "location": [
+                7.2731475830078125,
+                98.94141387939453,
+                64.15149688720703
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                -1.556018590927124
+            ],
+            "scale": [
+                0.7740454077720642,
+                0.7740454077720642,
+                0.774045467376709
+            ],
+            "textures": []
+        },
+        {
+            "name": "9ad13e0d344f4658afd04034477e6dd6.fbx",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/houses/assets/9ad13e0d344f4658afd04034477e6dd6_fbx.blend",
+            "location": [
+                7.2731475830078125,
+                98.94141387939453,
+                64.15149688720703
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.05402032285928726,
+                0.05402033030986786,
+                0.05402033403515816
+            ],
+            "textures": []
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "houses_5_b": {
+        "objects": [
+            {
+                "name": "house",
+                "location": "on the right",
+                "texture": "red bricks"
+            },
+            {
+                "name": "tiny cottage",
+                "location": "on the left",
+                "texture": "brown wood"
+            },
+            {
+                "name": "bench",
+                "location": "on the left",
+                "texture": "wooden"
+            },
+            {
+                "name": "boxes",
+                "location": "on the left",
+                "texture": "brown paper"
+            },
+            {
+                "name": "barrels",
+                "location": "on the left",
+                "texture": "wooden"
+            },
+            {
+                "name": "bags",
+                "location": "on the left",
+                "texture": "pastic"
+            },
+            {
+                "name": "chariot",
+                "location": "on the left",
+                "texture": "wood "
+            }
+        ],
+        "relations": [
+            "A bench is placed between the house and the cottage.",
+            "There are boxes, barrels, bags, and a chariot on the ground near the cottage."
+        ]
+    }
+}

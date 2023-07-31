@@ -1,0 +1,67 @@
+{
+  "office_1_a":{
+    "objects": [
+      {
+        "name": "table",
+        "location": "front of the window",
+        "texture": "white wood"
+      },
+      {
+        "name": "laptop",
+        "location": "on the right",
+        "texture": "black"
+      },
+      {
+        "name": "chair",
+        "location": "on the left",
+        "texture": "beige fabric,metal legs"
+      },
+      {
+        "name": "trash bin",
+        "location": "on the right",
+        "texture": "black metal"
+      },
+      {
+        "name": "clock",
+        "location": "on the right",
+        "texture": "black and white"
+      },
+      {
+        "name": "walls",
+        "location": "on the left and the right",
+        "texture": "beige plaster"
+      },
+      {
+        "name": "floor",
+        "location": "in the bottom middle",
+        "texture": "laminated paquet"
+      },
+      {
+        "name": "plant",
+        "location": "on the left ",
+        "texture": "white pot,green leaves"
+      },
+      {
+        "name": "Paintings",
+        "location": "on the right",
+        "texture": "black frame,white "
+      },
+      {
+        "name": "drawer",
+        "location": "on the right",
+        "texture": "white wood"
+      },
+      {
+        "name": "towel",
+        "location": "on the bottom right",
+        "texture": "beige cotton"
+      }
+    ],
+    "captions": [
+      "table with a laptop,plant and notebook on top",
+      "chair in front of the table",
+      "trash bin under the table with a white towel on top",
+      "clock and paintings on the walls"
+    ]
+  }
+}

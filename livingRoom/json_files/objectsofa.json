@@ -1,0 +1,61 @@
+{
+    "objects": [
+        {
+            "name": "Lamp_table",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Lamp_table.blend",
+            "location": [
+                1.2400000095367432,
+                12.330015182495117,
+                0.6596377491950989
+            ],
+            "rotation": [
+                -3.96159727245049e-08,
+                1.8473231833127102e-08,
+                5.303780555725098
+            ],
+            "scale": [
+                0.007086613215506077,
+                0.007086613215506077,
+                0.007086613681167364
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 17.jpeg.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 12.jpeg.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 13.jpeg.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 13.jpeg.003",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 14.jpeg.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 15.jpeg.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 16.jpeg.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 18.jpeg.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 12.jpeg.003",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 1.jpeg.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 19.jpeg.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 1.jpeg.002"
+            ]
+        },
+        {
+            "name": "Plant",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Plant.blend",
+            "location": [
+                1.5963746309280396,
+                9.149993896484375,
+                0.23999997973442078
+            ],
+            "rotation": [
+                5.302878552170864e-17,
+                3.0616174623351647e-17,
+                0.4322592318058014
+            ],
+            "scale": [
+                0.012736713513731956,
+                0.012736713513731956,
+                0.012736713513731956
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/monstera.jpg.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/monstera.jpg.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/023.JPG.002"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "farm_2_a": {
+        "objects": [
+            {
+                "name": "tall sheep pack",
+                "location": "on the right",
+                "texture": "white fur"
+            },
+            {
+                "name": "beige sheep",
+                "location": "on the right",
+                "texture": "beige fur"
+            },
+            {
+                "name": "dog",
+                "location": "on the left",
+                "texture": "brown color"
+            },
+            {
+                "name": "cow",
+                "location": "on the right",
+                "texture": "brown and white fur"
+            },
+            {
+                "name": "rocky green mountains",
+                "location": "in the background",
+                "texture": "rock and greenery"
+            }
+        ],
+        "relations": [
+            "A beige sheep is is located  in the middle of the tall sheep pack and the cow",
+            "The sheep pack,the beige sheep,dog and the cow are on rocky green mountains"
+        ]
+    }
+}

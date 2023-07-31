@@ -1,0 +1,1285 @@
+{
+    "objects": [
+        {
+            "name": "White Door 2",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/White_Door_2.blend",
+            "location": [
+                -2.269321918487549,
+                7.362449645996094,
+                4.239380359649658e-05
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                -1.5707963705062866
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "Plane.004",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Plane_004.blend",
+            "location": [
+                -1.856369972229004,
+                12.724031448364258,
+                -0.00997369084507227
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/scott-webb-UjupleczBOY-unsplash.jpg.001"
+            ]
+        },
+        {
+            "name": "Plane.003",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Plane_003.blend",
+            "location": [
+                -1.856369972229004,
+                12.724031448364258,
+                -0.00997369084507227
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/scott-webb-UjupleczBOY-unsplash.jpg.001"
+            ]
+        },
+        {
+            "name": "Plane.002",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Plane_002.blend",
+            "location": [
+                -1.856369972229004,
+                12.724031448364258,
+                0.0012055201223120093
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/scott-webb-UjupleczBOY-unsplash.jpg.001"
+            ]
+        },
+        {
+            "name": "Plane.001",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Plane_001.blend",
+            "location": [
+                -2.2457776069641113,
+                7.401485443115234,
+                1.0691567659378052
+            ],
+            "rotation": [
+                -0.0,
+                1.570796251296997,
+                0.0
+            ],
+            "scale": [
+                1.0632314682006836,
+                0.08275902271270752,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "Plane",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Plane.blend",
+            "location": [
+                -1.8263700008392334,
+                12.764032363891602,
+                -0.00997369084507227
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/scott-webb-UjupleczBOY-unsplash.jpg.001"
+            ]
+        },
+        {
+            "name": "Cube.055",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Cube_055.blend",
+            "location": [
+                -0.6991397738456726,
+                5.308620452880859,
+                2.9909472465515137
+            ],
+            "rotation": [
+                -1.5707963705062866,
+                -0.0,
+                3.1415929794311523
+            ],
+            "scale": [
+                0.7035528421401978,
+                1.0,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "Cube.047",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Cube_047.blend",
+            "location": [
+                -0.20082291960716248,
+                4.3720011711120605,
+                1.4405640363693237
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                3.1415929794311523
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Plaster001_2K_Displacement.png.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Plaster001_2K_Color.png.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Plaster001_2K_Roughness.png.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Plaster001_2K_Normal.png.001"
+            ]
+        },
+        {
+            "name": "Cube.042",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Cube_042.blend",
+            "location": [
+                0.7782436609268188,
+                5.324337959289551,
+                2.965078353881836
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                3.1415929794311523
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Plaster001_2K_Displacement.png.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Plaster001_2K_Color.png.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Plaster001_2K_Roughness.png.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Plaster001_2K_Normal.png.001"
+            ]
+        },
+        {
+            "name": "Cube.019",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Cube_019.blend",
+            "location": [
+                0.09307187795639038,
+                7.941018104553223,
+                1.5
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                2.2311365604400635,
+                5.267404556274414,
+                1.5
+            ],
+            "textures": []
+        },
+        {
+            "name": "Cube.018",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Cube_018.blend",
+            "location": [
+                0.09307187795639038,
+                7.941018104553223,
+                1.5
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                2.2311365604400635,
+                5.267404556274414,
+                1.5
+            ],
+            "textures": []
+        },
+        {
+            "name": "Cube.012",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Cube_012.blend",
+            "location": [
+                1.031172275543213,
+                5.308620452880859,
+                2.9909472465515137
+            ],
+            "rotation": [
+                -1.5707963705062866,
+                -0.0,
+                3.1415929794311523
+            ],
+            "scale": [
+                0.7035528421401978,
+                1.0,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "Cube.005",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Cube_005.blend",
+            "location": [
+                0.09307187795639038,
+                7.941018104553223,
+                1.5
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                2.2311365604400635,
+                5.267404556274414,
+                1.5
+            ],
+            "textures": []
+        },
+        {
+            "name": "Cube.003",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Cube_003.blend",
+            "location": [
+                0.09307187795639038,
+                7.941018104553223,
+                1.5
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Plaster001_2K_Displacement.png.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Plaster001_2K_Color.png.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Plaster001_2K_Roughness.png.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Plaster001_2K_Normal.png.001"
+            ]
+        },
+        {
+            "name": "Cube.002",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Cube_002.blend",
+            "location": [
+                -2.2431888580322266,
+                7.106385231018066,
+                1.0000262260437012
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.5394917130470276,
+                0.6082825660705566,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "floor",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/floor.blend",
+            "location": [
+                0.09307187795639038,
+                7.941018104553223,
+                1.4900262355804443
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                2.2311365604400635,
+                5.267404556274414,
+                1.5
+            ],
+            "textures": ["/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Floor_baseColor.png"]
+        },
+        {
+            "name": "Cube",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Cube.blend",
+            "location": [
+                0.09307187795639038,
+                7.941018104553223,
+                1.5
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                2.2311365604400635,
+                5.267404556274414,
+                1.5
+            ],
+            "textures": []
+        },
+        {
+            "name": "wall11.002",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/wall11_002.blend",
+            "location": [
+                2.3144357204437256,
+                10.144721031188965,
+                -2.0417823791503906
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                -1.5707963705062866
+            ],
+            "scale": [
+                0.004611830227077007,
+                0.0006935772835277021,
+                0.004611830227077007
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/oak.png"
+            ]
+        },
+        {
+            "name": "wall11.001",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/wall11_001.blend",
+            "location": [
+                2.3144357204437256,
+                5.450936317443848,
+                -2.0417823791503906
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                -1.5707963705062866
+            ],
+            "scale": [
+                0.004611830227077007,
+                0.0006935772835277021,
+                0.004611830227077007
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/beige_wall_001_diff_1k.jpg"
+            ]
+        },
+        {
+            "name": "wall10.002",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/wall10_002.blend",
+            "location": [
+                2.323451280593872,
+                4.5349531173706055,
+                1.498666763305664
+            ],
+            "rotation": [
+                1.5707964897155762,
+                8.742277657347586e-08,
+                -1.5707963705062866
+            ],
+            "scale": [
+                0.04720209538936615,
+                0.04720209538936615,
+                0.00709876511245966
+            ],
+            "textures": []
+        },
+        {
+            "name": "wall10.001",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/beige_wall_001_diff_1k.jpg",
+            "location": [
+                2.323451280593872,
+                15.149174690246582,
+                1.498666763305664
+            ],
+            "rotation": [
+                1.5707964897155762,
+                -0.0,
+                -1.5707963705062866
+            ],
+            "scale": [
+                0.04720209538936615,
+                0.04720209538936615,
+                0.00709876511245966
+            ],
+            "textures": []
+        },
+        {
+            "name": "Object",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Object.blend",
+            "location": [
+                2.323451280593872,
+                10.475833892822266,
+                1.498666763305664
+            ],
+            "rotation": [
+                1.5707964897155762,
+                -0.0,
+                -1.5707963705062866
+            ],
+            "scale": [
+                0.04720209538936615,
+                0.04720209538936615,
+                0.00709876511245966
+            ],
+            "textures": []
+        },
+        {
+            "name": "middle_curtains",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/middle_curtains.blend",
+            "location": [
+                0.9524367451667786,
+                13.06546401977539,
+                0.030535414814949036
+            ],
+            "rotation": [
+                -1.5077308470266898e-18,
+                8.624160768047373e-19,
+                0.0023555755615234375
+            ],
+            "scale": [
+                0.7866014242172241,
+                0.3964090645313263,
+                1.15488600730896
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/fabric_pattern_05_rough_1k.jpg"
+            ]
+        },
+        {
+            "name": "Sidecurtains",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Sidecurtains.blend",
+            "location": [
+                0.9736920595169067,
+                13.06546401977539,
+                -0.17433856427669525
+            ],
+            "rotation": [
+                -1.5077308470266898e-18,
+                8.624160768047373e-19,
+                0.0023555755615234375
+            ],
+            "scale": [
+                0.7866014242172241,
+                0.3964090645313263,
+                1.15488600730896
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/fabric_pattern_05_rough_1k.jpg"
+            ]
+        },
+        {
+            "name": "Circle.012",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Circle_012.blend",
+            "location": [
+                -1.2848141193389893,
+                6.138149261474609,
+                3.1413512229919434
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                3.1415929794311523
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "Circle.011",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Circle_011.blend",
+            "location": [
+                1.5403413772583008,
+                1.174363136291504,
+                3.1413512229919434
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "Circle.010",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Circle_010.blend",
+            "location": [
+                0.1972980499267578,
+                1.174363136291504,
+                3.1413512229919434
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "Circle.009",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Circle_009.blend",
+            "location": [
+                -1.2848141193389893,
+                8.77501106262207,
+                3.1413512229919434
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                3.1415929794311523
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "Circle.008",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Circle_008.blend",
+            "location": [
+                1.5403413772583008,
+                1.174363136291504,
+                3.1413512229919434
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "Circle.007",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Circle_007.blend",
+            "location": [
+                0.1972980499267578,
+                1.174363136291504,
+                3.1413512229919434
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "Circle.006",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Circle_006.blend",
+            "location": [
+                -1.2848141193389893,
+                12.651735305786133,
+                3.1413512229919434
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                3.1415929794311523
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "Circle.005",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Circle_005.blend",
+            "location": [
+                1.5403413772583008,
+                1.174363136291504,
+                3.1413512229919434
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "Circle.004",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Circle_004.blend",
+            "location": [
+                0.1972980499267578,
+                1.174363136291504,
+                3.1413512229919434
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "G-__598404",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/G-__598404.blend",
+            "location": [
+                26.963218688964844,
+                -23.968807220458984,
+                0.7872322201728821
+            ],
+            "rotation": [
+                -5.492011281648746e-15,
+                -8.711614430864916e-15,
+                -0.961676299571991
+            ],
+            "scale": [
+                0.12501999735832214,
+                0.12501999735832214,
+                0.12501999735832214
+            ],
+            "textures": []
+        },
+        {
+            "name": "G-__585219",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/G-__585219.blend",
+            "location": [
+                26.885967254638672,
+                -24.433948516845703,
+                0.6325976848602295
+            ],
+            "rotation": [
+                0.0060912929475307465,
+                0.04471570625901222,
+                -3.131281614303589
+            ],
+            "scale": [
+                1.0787553787231445,
+                2.5902562141418457,
+                2.2282066345214844
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Metal_Corrogated_Shiny.jpg.009"
+            ]
+        },
+        {
+            "name": "G-__555960.001",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/G-__555960_001.blend",
+            "location": [
+                0.980173647403717,
+                0.9350044131278992,
+                0.5768210887908936
+            ],
+            "rotation": [
+                7.608945695736224e-10,
+                0.0323825441300869,
+                -1.047197699546814
+            ],
+            "scale": [
+                0.10350000113248825,
+                0.10350000113248825,
+                0.10350000113248825
+            ],
+            "textures": []
+        },
+        {
+            "name": "G-__555924.001",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/G-__555924_001.blend",
+            "location": [
+                0.9890819191932678,
+                0.942463219165802,
+                0.5590211749076843
+            ],
+            "rotation": [
+                7.608945695736224e-10,
+                0.0323825441300869,
+                -1.047197699546814
+            ],
+            "scale": [
+                0.10350000113248825,
+                0.10350000113248825,
+                0.10350000113248825
+            ],
+            "textures": []
+        },
+        {
+            "name": "Component#9.002",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Component_9_002.blend",
+            "location": [
+                24.718902587890625,
+                -25.777610778808594,
+                0.6432479619979858
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                -0.8482299447059631
+            ],
+            "scale": [
+                0.5849999785423279,
+                0.5849999785423279,
+                0.5849999785423279
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/e3d6fcada0cf5579c65d72bd57fdc03e.jpg.002"
+            ]
+        },
+        {
+            "name": "Component#8.002",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Component_8_002.blend",
+            "location": [
+                24.720088958740234,
+                -25.778905868530273,
+                0.6168761253356934
+            ],
+            "rotation": [
+                -0.8482300639152527,
+                -1.570796251296997,
+                0.0
+            ],
+            "scale": [
+                0.5849999785423279,
+                0.5849999785423279,
+                0.5849999785423279
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/e3d6fcada0cf5579c65d72bd57fdc03e.jpg.002"
+            ]
+        },
+        {
+            "name": "Component#15.003",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Component_15_003.blend",
+            "location": [
+                24.80467414855957,
+                -25.039396286010742,
+                0.6171836256980896
+            ],
+            "rotation": [
+                3.141592502593994,
+                0.03238276019692421,
+                -1.047197937965393
+            ],
+            "scale": [
+                -0.10350000113248825,
+                -0.10349999368190765,
+                -0.10350000113248825
+            ],
+            "textures": []
+        },
+        {
+            "name": "Component#15.002",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Component_15_002.blend",
+            "location": [
+                24.800199508666992,
+                -25.031646728515625,
+                0.6174734830856323
+            ],
+            "rotation": [
+                3.601391129759435e-10,
+                0.0323825478553772,
+                -1.047197937965393
+            ],
+            "scale": [
+                0.10350000113248825,
+                0.10350000858306885,
+                0.10350000113248825
+            ],
+            "textures": []
+        },
+        {
+            "name": "Component#14.002",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Component_14_002.blend",
+            "location": [
+                24.829896926879883,
+                -25.759143829345703,
+                0.6646341681480408
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                -2.3561947345733643
+            ],
+            "scale": [
+                0.002424242440611124,
+                0.002424242440611124,
+                0.002424242440611124
+            ],
+            "textures": []
+        },
+        {
+            "name": "Component#12.011",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Component_12_011.blend",
+            "location": [
+                24.792293548583984,
+                -25.021900177001953,
+                0.6185117959976196
+            ],
+            "rotation": [
+                3.601391129759435e-10,
+                0.0323825478553772,
+                -1.047197937965393
+            ],
+            "scale": [
+                0.10350000113248825,
+                0.10350000858306885,
+                0.10350000113248825
+            ],
+            "textures": []
+        },
+        {
+            "name": "Component#12.007",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Component_12_007.blend",
+            "location": [
+                24.810091018676758,
+                -25.05272674560547,
+                0.6173587441444397
+            ],
+            "rotation": [
+                3.601391129759435e-10,
+                0.0323825478553772,
+                -1.047197937965393
+            ],
+            "scale": [
+                0.10350000113248825,
+                0.10350000858306885,
+                0.10350000113248825
+            ],
+            "textures": []
+        },
+        {
+            "name": "Component#12.006",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Component_12_006.blend",
+            "location": [
+                24.808927536010742,
+                -25.05071258544922,
+                0.6174341440200806
+            ],
+            "rotation": [
+                3.601391129759435e-10,
+                0.0323825478553772,
+                -1.047197937965393
+            ],
+            "scale": [
+                0.10350000113248825,
+                0.10350000858306885,
+                0.10350000113248825
+            ],
+            "textures": []
+        },
+        {
+            "name": "Component#11.002",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Component_11_002.blend",
+            "location": [
+                24.720088958740234,
+                -25.778905868530273,
+                0.61863112449646
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                -0.8482299447059631
+            ],
+            "scale": [
+                0.5849999785423279,
+                0.5849999785423279,
+                0.5849999785423279
+            ],
+            "textures": []
+        },
+        {
+            "name": "Component#10.002",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Component_10_002.blend",
+            "location": [
+                24.720088958740234,
+                -25.778905868530273,
+                0.6168761253356934
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                -0.8482299447059631
+            ],
+            "scale": [
+                0.5849999785423279,
+                0.5849999785423279,
+                0.5849999785423279
+            ],
+            "textures": []
+        },
+        {
+            "name": "G-__598404.001",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/G-__598404_001.blend",
+            "location": [
+                26.963218688964844,
+                -23.968807220458984,
+                0.7872322201728821
+            ],
+            "rotation": [
+                -5.492011281648746e-15,
+                -8.711614430864916e-15,
+                -0.961676299571991
+            ],
+            "scale": [
+                0.12501999735832214,
+                0.12501999735832214,
+                0.12501999735832214
+            ],
+            "textures": []
+        },
+        {
+            "name": "Plane.005",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Plane_005.blend",
+            "location": [
+                -0.09724044799804688,
+                21.656105041503906,
+                3.657989501953125
+            ],
+            "rotation": [
+                4.71238899230957,
+                -1573.9378662109375,
+                7.153156539319028e-12
+            ],
+            "scale": [
+                3.6776645183563232,
+                2.3421010971069336,
+                2.3421010971069336
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/TexturesCom_LandscapeCity0099_1_M.jpg.001"
+            ]
+        },
+        {
+            "name": "Camera.001",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Camera_001.blend",
+            "location": [
+                -1.7668777704238892,
+                8.290184020996094,
+                0.8600625991821289
+            ],
+            "rotation": [
+                1.5707963705062866,
+                -3.725290298461914e-09,
+                -0.9564390182495117
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "Area",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Area.blend",
+            "location": [
+                0.14366483688354492,
+                13.27425765991211,
+                1.4014500379562378
+            ],
+            "rotation": [
+                0.0,
+                1.5707963705062866,
+                1.5707963705062866
+            ],
+            "scale": [
+                2.3998310565948486,
+                3.104313850402832,
+                0.7096105217933655
+            ],
+            "textures": []
+        },
+        {
+            "name": "ReflectionPlane",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/ReflectionPlane.blend",
+            "location": [
+                0.12237248569726944,
+                8.94260311126709,
+                5.650520324707031e-05
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "textures": []
+        },
+        {
+            "name": "Lamp_table",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Lamp_table.blend",
+            "location": [
+                1.75,
+                9.150014877319336,
+                0.5896377563476562
+            ],
+            "rotation": [
+                -3.96159727245049e-08,
+                1.8473231833127102e-08,
+                5.303780555725098
+            ],
+            "scale": [
+                0.007086613215506077,
+                0.007086613215506077,
+                0.007086613681167364
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 17.jpeg.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 12.jpeg.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 13.jpeg.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 13.jpeg.003",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 14.jpeg.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 15.jpeg.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 16.jpeg.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 18.jpeg.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 12.jpeg.003",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 1.jpeg.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 19.jpeg.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Texture 1.jpeg.002"
+            ]
+        },
+        {
+            "name": "sofa",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/sofa.blend",
+            "location": [
+                1.5899996757507324,
+                10.58576774597168,
+                -3.9430341720581055
+            ],
+            "rotation": [
+                1.5712374448776245,
+                -0.005934222601354122,
+                -1.5691498517990112
+            ],
+            "scale": [
+                0.12111382186412811,
+                0.12111382186412811,
+                0.12111382186412811
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/grey.png"
+            ]
+        },
+        {
+            "name": "Table",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Table.blend",
+            "location": [
+                -0.16000019013881683,
+                10.110002517700195,
+                0.05000000074505806
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                0.949999988079071,
+                0.949999988079071,
+                0.7200000286102295
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/1522141_635388466520775_785818887_n.jpg.004",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/1522141_635388466520775_785818887_n.jpg.004",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/e34b77ad25bbeaf8523bfedec49be517.tif.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/dca3ec153fb11c3b0b028248cf103faa.tif.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/10169e0b62315ed2b342ecb973b1b17d.tif.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/7690b93a15d048a747eb51c06d715a9e.tif.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/a34d1f78aa4b000c03a5b5fe30d605a1.jpg.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/3ab8b31d126e73676aa1412858953fd8.jpg.001",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/b74c19259b587230e8cfbac4dd4d920f.jpg.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/b67caacef33ef13a9fe35bea7da0ba1b.jpg.002"
+            ]
+        },
+        {
+            "name": "carpet",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/carpet.blend",
+            "location": [
+                0.05000005662441254,
+                10.91740894317627,
+                0.029999954625964165
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                0.0
+            ],
+            "scale": [
+                1.1504768133163452,
+                1.1504768133163452,
+                1.1504768133163452
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/fabric_pattern_05_col_01_1k.png"
+            ]
+        },
+        {
+            "name": "pouf_gray",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/pouf_gray.blend",
+            "location": [
+                0.6000000238418579,
+                9.0,
+                0.20000000298023224
+            ],
+            "rotation": [
+                -4.371138473402425e-08,
+                -0.0,
+                3.853666305541992
+            ],
+            "scale": [
+                0.031612198799848557,
+                0.031612198799848557,
+                0.03161219507455826
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/grey.png"
+            ]
+        },
+        {
+            "name": "Plant",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Plant.blend",
+            "location": [
+                1.106374979019165,
+                12.749994277954102,
+                0.22000007331371307
+            ],
+            "rotation": [
+                5.302878552170864e-17,
+                3.0616174623351647e-17,
+                0.4322592318058014
+            ],
+            "scale": [
+                0.012736713513731956,
+                0.012736713513731956,
+                0.012736713513731956
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/potted_plant_04_diff_1k.jpg"
+            ]
+        },
+        {
+            "name": "Tv",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/Tv.blend",
+            "location": [
+                -1.7400001287460327,
+                12.029999732971191,
+                0.4000000059604645
+            ],
+            "rotation": [
+                -3.1415934562683105,
+                -5.057031064113456e-15,
+                3.1287710666656494
+            ],
+            "scale": [
+                -1.5010000467300415,
+                -2.3399999141693115,
+                -2.3459999561309814
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Metal_Corrogated_Shiny.jpg.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Almond on Ash horiz.jpg.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/High-Quality-White-Wood-Texture - Copy.jpg.002",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/High-Quality-White-Wood-Texture - Copy.jpg.002"
+            ]
+        },
+        {
+            "name": "paintings",
+            "path": "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/assets/paintings.blend",
+            "location": [
+                2.2899997234344482,
+                10.15583610534668,
+                1.4691295623779297
+            ],
+            "rotation": [
+                0.0,
+                -0.0,
+                -1.5904966592788696
+            ],
+            "scale": [
+                0.9457168579101562,
+                0.9457168579101562,
+                0.9457168579101562
+            ],
+            "textures": [
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Painting2_baseColor.jpeg",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Painting3_baseColor.jpeg",
+                "/home/nohay/Documents/Backup/Stage/ScenesAssets/livingRoom/textures/Painting_baseColor.jpeg"
+
+            ]
+        }
+    ]
+}

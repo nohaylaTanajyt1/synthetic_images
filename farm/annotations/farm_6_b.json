@@ -1,0 +1,25 @@
+{
+    "farm_6_b": {
+        "objects": [
+            {
+                "name": "deers",
+                "location": "on the left",
+                "texture": "brown fur"
+            },
+            {
+                "name": "white wolf",
+                "location": "on the right",
+                "texture": "white fur"
+            },
+            {
+                "name": "beige black wolf",
+                "location": "on the left",
+                "texture": "black and beige fur"
+            }
+        ],
+        "relations": [
+            "The sheep pack,the beige sheep,dog and the cow are on rocky green mountains",
+            "There are three white wolf"
+        ]
+    }
+}

@@ -1,0 +1,1140 @@
+{
+  "objects": [
+    {
+      "name": "Sketchfab_model",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Sketchfab_model.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "RootNode",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/RootNode.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "mesh_out_node_texture_material_0.004",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/mesh_out_node_texture_material_0_004.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/texture_material_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "mesh_out_node",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/mesh_out_node.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "Light.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Light_001.blend",
+      "location": [
+        14.026066780090332,
+        8.278338432312012,
+        143.9195556640625
+      ],
+      "rotation": [
+        0.6503279805183411,
+        0.055217113345861435,
+        1.8663908243179321
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "d5a1fd6243874670ba79d393cc1d4b19.fbx",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/d5a1fd6243874670ba79d393cc1d4b19_fbx.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "Camera",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Camera.blend",
+      "location": [
+        -68.89254760742188,
+        176.89990234375,
+        -63.48057556152344
+      ],
+      "rotation": [
+        1.5707963705062866,
+        0.0,
+        2.4478368759155273
+      ],
+      "scale": [
+        16.61444854736328,
+        16.61444854736328,
+        16.61444854736328
+      ],
+      "textures": []
+    },
+    {
+      "name": "SheepFullres 9",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/SheepFullres_9.blend",
+      "location": [
+        -88.25279998779297,
+        101.7190170288086,
+        -62.681339263916016
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.362244725227356,
+        1.408050298690796,
+        1.4080506563186646
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "SheepFullres 8",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/SheepFullres_8.blend",
+      "location": [
+        -80.12028503417969,
+        104.2400894165039,
+        -63.038490295410156
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.2233860492706299,
+        1.2645223140716553,
+        1.2645225524902344
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "SheepFullres 7",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/SheepFullres_7.blend",
+      "location": [
+        -91.15509796142578,
+        111.6580810546875,
+        -64.2656021118164
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.246246099472046,
+        1.2881513833999634,
+        1.2881513833999634
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "SheepFullres 6",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/SheepFullres_6.blend",
+      "location": [
+        -84.64742279052734,
+        90.22212982177734,
+        -62.607818603515625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.362245798110962,
+        1.4080504179000854,
+        1.408050537109375
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "SheepFullres 5",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/SheepFullres_5.blend",
+      "location": [
+        -110.3408203125,
+        109.99021911621094,
+        -67.13697052001953
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.4437283277511597,
+        1.4922744035720825,
+        1.4922744035720825
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "SheepFullres 4",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/SheepFullres_4.blend",
+      "location": [
+        -114.34314727783203,
+        103.04717254638672,
+        -67.71607208251953
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.136597752571106,
+        1.1748155355453491,
+        1.1748154163360596
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "SheepFullres 3",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/SheepFullres_3.blend",
+      "location": [
+        -113.85189056396484,
+        90.36368560791016,
+        -66.80337524414062
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.3622444868087769,
+        1.4080506563186646,
+        1.408050775527954
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "SheepFullres 2",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/SheepFullres_2.blend",
+      "location": [
+        -96.09517669677734,
+        96.21939849853516,
+        -63.382171630859375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.2652673721313477,
+        1.3078120946884155,
+        1.3078123331069946
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "SheepFullres 13",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/SheepFullres_13.blend",
+      "location": [
+        -103.17838287353516,
+        113.62293243408203,
+        -65.84767150878906
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.3622450828552246,
+        1.4080510139465332,
+        1.4080504179000854
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "SheepFullres 12",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/SheepFullres_12.blend",
+      "location": [
+        -92.69681549072266,
+        120.69701385498047,
+        -65.27464294433594
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.3622448444366455,
+        1.4080510139465332,
+        1.408050298690796
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "SheepFullres 11",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/SheepFullres_11.blend",
+      "location": [
+        -98.52437591552734,
+        108.23419189453125,
+        -64.73118591308594
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.9827132225036621,
+        1.0157575607299805,
+        1.0157572031021118
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "SheepFullres 10",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/SheepFullres_10.blend",
+      "location": [
+        -94.0549545288086,
+        105.66985321044922,
+        -62.758384704589844
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.3622444868087769,
+        1.408050537109375,
+        1.4080504179000854
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "SheepFullres 1",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/SheepFullres_1.blend",
+      "location": [
+        -100.37950897216797,
+        93.51795959472656,
+        -64.82925415039062
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.362244725227356,
+        1.4080510139465332,
+        1.4080511331558228
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "SheepFullres",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/SheepFullres.blend",
+      "location": [
+        -96.83131408691406,
+        88.73006439208984,
+        -63.6904411315918
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.4931681156158447,
+        1.5433757305145264,
+        1.543375849723816
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "Light",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Light.blend",
+      "location": [
+        -48.23192596435547,
+        146.17410278320312,
+        -41.88970184326172
+      ],
+      "rotation": [
+        0.4857037365436554,
+        0.10412873327732086,
+        1.8532551527023315
+      ],
+      "scale": [
+        3.627375841140747,
+        3.6273765563964844,
+        3.627375841140747
+      ],
+      "textures": []
+    },
+    {
+      "name": "AlpacaFullres 1",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/AlpacaFullres_1.blend",
+      "location": [
+        -101.63092041015625,
+        103.33599853515625,
+        -64.55006408691406
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.878100037574768,
+        1.878100037574768,
+        1.878100037574768
+      ],
+      "textures": []
+    },
+    {
+      "name": "Sketchfab_model.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Sketchfab_model_001.blend",
+      "location": [
+        -91.98910522460938,
+        111.68256378173828,
+        -69.75911712646484
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.226232647895813,
+        1.226232647895813,
+        1.226232647895813
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_3",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Object_3.blend",
+      "location": [
+        -32.02437210083008,
+        6.404797554016113,
+        26.91536521911621
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_1_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "animal_pack_1.obj.cleaner.materialmerger.gles",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/animal_pack_1_obj_cleaner_materialmerger_gles.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "Sketchfab_model.002",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Sketchfab_model_002.blend",
+      "location": [
+        -154.12828063964844,
+        50.251564025878906,
+        -79.47953033447266
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.569542407989502,
+        1.569542407989502,
+        1.569542407989502
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_6",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Object_6.blend",
+      "location": [
+        20.256433486938477,
+        1.0072524219140178e-06,
+        -8.663565635681152
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.1758931875228882,
+        1.1758931875228882,
+        1.1758933067321777
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_4_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "animal_pack_1.obj.cleaner.materialmerger.gles.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/animal_pack_1_obj_cleaner_materialmerger_gles_001.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "Sketchfab_model.003",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Sketchfab_model_003.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.15412314236164093,
+        0.15412314236164093,
+        0.15412314236164093
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_9",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Object_9.blend",
+      "location": [
+        324.8066101074219,
+        335.4361877441406,
+        601.2677001953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        9.210589408874512,
+        9.210589408874512,
+        9.210588455200195
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_7_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "animal_pack_1.obj.cleaner.materialmerger.gles.002",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/animal_pack_1_obj_cleaner_materialmerger_gles_002.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "Sketchfab_model.004",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Sketchfab_model_004.blend",
+      "location": [
+        22.46094512939453,
+        28.782222747802734,
+        -44.88728713989258
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.1786925792694092,
+        1.1786925792694092,
+        1.1786925792694092
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_4",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Object_4.blend",
+      "location": [
+        -17.2266788482666,
+        5.2675652503967285,
+        -12.442159652709961
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.3994933366775513,
+        1.3994932174682617,
+        1.3994933366775513
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_2_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "animal_pack_1.obj.cleaner.materialmerger.gles.003",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/animal_pack_1_obj_cleaner_materialmerger_gles_003.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_9.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Object_9_001.blend",
+      "location": [
+        289.3464660644531,
+        340.793212890625,
+        693.0679931640625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        9.210589408874512,
+        9.210589408874512,
+        9.210588455200195
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_7_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "Object_9.002",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Object_9_002.blend",
+      "location": [
+        429.61962890625,
+        333.74945068359375,
+        570.5380249023438
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        9.210589408874512,
+        9.210589408874512,
+        9.210588455200195
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_7_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "Object_9.003",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Object_9_003.blend",
+      "location": [
+        409.7833251953125,
+        344.0078125,
+        689.56103515625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        8.328338623046875,
+        8.328337669372559,
+        8.328337669372559
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_7_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "Sketchfab_model.005",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Sketchfab_model_005.blend",
+      "location": [
+        36.52153778076172,
+        15.54250717163086,
+        -43.952903747558594
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        7.766648769378662,
+        7.766648769378662,
+        7.766648769378662
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_2",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Object_2.blend",
+      "location": [
+        0.9697436094284058,
+        1.5610517263412476,
+        -7.149637699127197
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.9990109801292419,
+        0.9990109801292419,
+        0.9990110397338867
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/3DModel_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "3DModel.obj.cleaner.materialmerger.gles",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/3DModel_obj_cleaner_materialmerger_gles.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "Sketchfab_model.006",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Sketchfab_model_006.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.15412314236164093,
+        0.15412314236164093,
+        0.15412314236164093
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_8",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Object_8.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg"
+      ]
+    },
+    {
+      "name": "animal_pack_1.obj.cleaner.materialmerger.gles.004",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/animal_pack_1_obj_cleaner_materialmerger_gles_004.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_8.004",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Object_8_004.blend",
+      "location": [
+          21.134933471679688,
+          -1.2515559196472168,
+          25.0690975189209
+      ],
+      "rotation": [
+          0.0,
+          0.0,
+          0.0
+      ],
+      "scale": [
+          1.0,
+          1.0,
+          1.0
+      ],
+      "textures": [
+          "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg.001"
+      ]
+    },
+    {
+      "name": "Sketchfab_model.007",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Sketchfab_model_007.blend",
+      "location": [
+        -133.30055236816406,
+        98.22708892822266,
+        -75.3023910522461
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.647418737411499,
+        1.647418737411499,
+        1.647418737411499
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_8.001",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Object_8_001.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg.001"
+      ]
+    },
+    {
+      "name": "animal_pack_1.obj.cleaner.materialmerger.gles.005",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/animal_pack_1_obj_cleaner_materialmerger_gles_005.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "Sketchfab_model.008",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Sketchfab_model_008.blend",
+      "location": [
+        -133.30055236816406,
+        98.22708892822266,
+        -75.3023910522461
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.647418737411499,
+        1.647418737411499,
+        1.647418737411499
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_8.002",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Object_8_002.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg.001"
+      ]
+    },
+    {
+      "name": "animal_pack_1.obj.cleaner.materialmerger.gles.006",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/animal_pack_1_obj_cleaner_materialmerger_gles_006.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "Sketchfab_model.009",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Sketchfab_model_009.blend",
+      "location": [
+        -216.38255310058594,
+        0.37930870056152344,
+        -89.53048706054688
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.647418737411499,
+        1.647418737411499,
+        1.647418737411499
+      ],
+      "textures": []
+    },
+    {
+      "name": "animal_pack_1.obj.cleaner.materialmerger.gles.007",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/animal_pack_1_obj_cleaner_materialmerger_gles_007.blend",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": []
+    },
+    {
+      "name": "Object_8.003",
+      "path": "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/assets/Object_8_003.blend",
+      "location": [
+        4.416718006134033,
+        0.26512742042541504,
+        -5.143681049346924
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "textures": [
+        "/baie/nfs-cluster-1/data1/raid1/homedirs/nohayla.tanajyt/Stage/ScenesAssets/farm/textures/material_6_baseColor.jpeg.001"
+      ]
+    }
+  ]
+}
